@@ -84,7 +84,7 @@ We observed that selectively applying LoRA led to higher accuracy at a lower par
 ## How to Run
 1. Clone this repository:
     ```bash
-    git clone https://github.com/nishant-ai/BERT-tuned-AGNews.git
+    https://github.com/madhvantyagi/Roberta.git
     cd BERT-tuned-AGNews
     ```
     
