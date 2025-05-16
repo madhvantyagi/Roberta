@@ -85,7 +85,7 @@ We observed that selectively applying LoRA led to higher accuracy at a lower par
 1. Clone this repository:
     ```bash
     https://github.com/madhvantyagi/Roberta.git
-    cd BERT-tuned-AGNews
+    cd Roberta
     ```
     
 2. Train or evaluate:
